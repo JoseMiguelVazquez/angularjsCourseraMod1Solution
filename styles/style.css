@@ -1,0 +1,16 @@
+.message { 
+    font-size: 1.3em; 
+    font-weight: bold; 
+}
+
+.valid {
+    color: green;
+    border-style: solid;
+    border-color: green;
+}
+
+.notValid {
+    color: red;
+    border-style: solid;
+    border-color: red;
+}
